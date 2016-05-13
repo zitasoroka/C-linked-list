@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1462488288 source:c:\users\user\desktop\c++\bankaccount\main.cpp
+	<iostream>
+	<string>
+
