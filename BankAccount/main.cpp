@@ -1,5 +1,4 @@
 /*
-From D14124330, Zita Soroka
 This program captures transactions of a bank account.
 A linked list is used to implement this which is a part of a bank account class.
 The program contains:
